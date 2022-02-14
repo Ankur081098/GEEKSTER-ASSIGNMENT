@@ -16,4 +16,11 @@ Student ++1
 else (Student.city(Mumbai)){
 Student ++1 }
 }
+--------------------------------------------------------------
+for 1 to 200{
+if(student.city=="Ahmdabad" or student.city=="chennai" or student.city=="mumbai")
+{
+print student.name and subjects
+}
+end
 
