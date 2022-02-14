@@ -9,5 +9,12 @@ else (Student.CharAt(0) = A ) {
 count +1 
 }
 }
+-----------------------------------------------
+
+for 1 to 200 {
+if((Age>=5 && Age <=10) && (Name.charAt[0]=='A'))
+print student.name and student.course
+}
+end
 
 
